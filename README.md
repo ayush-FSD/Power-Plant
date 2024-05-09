@@ -1,6 +1,7 @@
 **POWER PLANT EMISSION ANALYSIS**
 
-**Dashboard Link**:
+**Dashboard Link**:![WhatsApp Image 2024-05-01 at 5 38 00 PM](https://github.com/ayush-FSD/Power-Plant/assets/113510631/19bb8c69-5933-4ca5-902c-cc3929098536)
+
 
 **Overview**
 This project aims to conduct an in-depth analysis of the emissions from 20 selected thermal power plants in India. The focus is on understanding the levels of pollutants released by these plants and their impact on the environment and public health.
