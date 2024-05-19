@@ -1,6 +1,6 @@
 **POWER PLANT EMISSION ANALYSIS**
 
-**Dashboard Link**:![WhatsApp Image 2024-05-01 at 5 38 00 PM](https://github.com/ayush-FSD/Power-Plant/assets/113510631/19bb8c69-5933-4ca5-902c-cc3929098536)
+**Dashboard Link**:
 
 
 **Overview**
