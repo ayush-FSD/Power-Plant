@@ -1,7 +1,6 @@
 **POWER PLANT EMISSION ANALYSIS**
 
-**Dashboard Link**:
-
+**Dashboard**: The dashboard is available in the repository itself.
 
 **Overview**
 This project aims to conduct an in-depth analysis of the emissions from 20 selected thermal power plants in India. The focus is on understanding the levels of pollutants released by these plants and their impact on the environment and public health.
